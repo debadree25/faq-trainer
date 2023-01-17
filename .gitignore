@@ -1,0 +1,4 @@
+/node_modules
+.env
+prompts.json
+prompts_prepared.jsonl
